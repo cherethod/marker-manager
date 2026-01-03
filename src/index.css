@@ -1,3 +1,14 @@
+:root {
+  --bg-blue: #2060df;
+  --bg-dark: #181818;
+  --bg-header-dark: #3c3c3c;
+  --bg-aside-dark: #2c2c2c;
+  --bg-sidebar-dark: #252525;
+  --border-dark: #4f4f4f;
+  --bg-search-dark: #464646;
+  --font-light: #b0b0b0;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,

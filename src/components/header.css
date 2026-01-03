@@ -1,0 +1,49 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    div.logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 1rem;
+
+        svg {
+            height: 30px;
+            width: auto;
+            stroke-width: 4px;
+        }
+
+        h1 {
+            color: white;
+            font-weight: bold;
+            margin-left: 0.5rem;
+        }
+    }
+
+    div.header-search {
+        background-color: var(--bg-search-dark);
+        min-width: 30dvw ;
+        height: 60%;
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+        padding: 0 1rem;
+        border: var(--border-dark) 1px solid;
+        border-radius: 4px;
+        color: var(--font-light);
+
+        input {
+            width: 100%;
+            border-radius: 4px;
+            border: none;
+            font-size: 1.2rem;
+            font-weight: 200;
+            background-color: transparent;
+            color: inherit;
+            &:focus {
+                outline: none;
+            }
+        }
+    }
+}

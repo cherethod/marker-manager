@@ -1,0 +1,51 @@
+# Main UI:
+    ☐ Add Header component
+        ☐ Base structure
+        ☐ Logo placement
+        ☐ Search bar
+        ☐ Buttons (e.g., Login, Signup)
+        # Functionality:
+            ☐ Implement search functionality
+            ☐ Implement button actions        
+    ☐ Add Left Sidebar component
+            ☐ Explorer section
+            ☐ Search section
+            ☐ Changes section
+            ☐ Extensions section
+            ☐ Aditional sections as needed
+    ☐ Add Main Content area
+        ☐ Base structure
+        ☐ Placeholder for dynamic content
+        ☐ Future interaction and functionality
+    ☐ Add Right Sidebar component
+        ☐ Details section
+        ☐ Editing section
+        ☐ Create element section
+        ☐ Aditional sections as needed
+# Styling:
+    ☐ Define CSS variables for colors
+    ☐ Style Header with background color and height
+    ☐ Style Sidebars with background color and width
+    ☐ Style Main Content area with background color and flexible width
+     
+    
+    
+
+
+# Layout:
+    ☐ Use Flexbox for main layout
+    ☐ Ensure Sidebars and Main Content area are properly aligned
+# Functionality:
+    ☐ Implement collapsible functionality for Sidebars
+# Testing:
+    ☐ Test responsiveness of layout
+# Documentation:
+    ☐ Comment code for clarity
+# Cleanup:
+    ☐ Remove unused imports and code snippets
+# Optimization:
+    ☐ Optimize CSS for performance
+# Review:
+    ☐ Review code for best practices and consistency
+# Deployment:
+    ☐ Prepare project for deployment
